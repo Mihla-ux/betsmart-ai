@@ -1,0 +1,1 @@
+{"name": "betsmart-ai", "version": "1.0.0", "dependencies": {"@anthropic-ai/sdk": "latest", "netlify-cli": "latest"}}
